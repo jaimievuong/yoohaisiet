@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://roiphiepa.kknight.pro/sitemap.xml
